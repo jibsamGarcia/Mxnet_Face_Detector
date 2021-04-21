@@ -15,6 +15,6 @@ cd mobile_detect/python3 livefacemxnet.py
 
 Further optimization is possible as the base MobileFace models have a performance of 200-300 fps.
 
-In the image I show the structure of the folders
+In the image I show the structure of the folders.
 
 ![Screenshot](cap.png)
